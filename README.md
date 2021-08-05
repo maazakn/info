@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @This-is-MaazAhmed
+- 👋 Hi, I’m Maaz Ahmed
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning REACT
 - 💞️ I’m looking to collaborate on project related web or python 
